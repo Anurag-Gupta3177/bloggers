@@ -1,7 +1,7 @@
 
 ---
 
-# OnSpot - Tech Knowledge Sharing Platform
+# bloggers - Tech Knowledge Sharing Platform
 
 OnSpot is a blog website designed for tech enthusiasts to share knowledge, insights, and discussions on various technology-related topics. Users can create and share blogs, interact with posts by liking and commenting, and enjoy a smooth experience powered by modern frontend and backend functionalities.
 
@@ -15,7 +15,6 @@ OnSpot is a blog website designed for tech enthusiasts to share knowledge, insig
   - [Running Locally](#running-locally)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **User Authentication:** Login and signup functionality.
@@ -27,7 +26,6 @@ OnSpot is a blog website designed for tech enthusiasts to share knowledge, insig
 - **Frontend:** Vite, React, Tailwind CSS
 - **Backend:** Node.js, Express, MongoDB
 - **Auth:** Google Authentication, Firebase
-- **Hosting:** TBD
 
 ## Environment Variables
 
@@ -113,9 +111,3 @@ Ensure you have the following installed:
 ## Contributing
 
 Contributions are welcome! If you’d like to make changes, please fork the repository and submit a pull request with a description of your changes.
-
-## License
-
-This project is licensed under the MIT License.
-
---- 
