@@ -3,7 +3,7 @@
 
 # bloggers - Tech Knowledge Sharing Platform
 
-OnSpot is a blog website designed for tech enthusiasts to share knowledge, insights, and discussions on various technology-related topics. Users can create and share blogs, interact with posts by liking and commenting, and enjoy a smooth experience powered by modern frontend and backend functionalities.
+bloggers is a blog website designed for tech enthusiasts to share knowledge, insights, and discussions on various technology-related topics. Users can create and share blogs, interact with posts by liking and commenting, and enjoy a smooth experience powered by modern frontend and backend functionalities.
 
 ## Table of Contents
 - [Features](#features)
